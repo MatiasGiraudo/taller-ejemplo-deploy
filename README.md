@@ -1,7 +1,8 @@
 ⚔️ EPERS Online
 =
 
-Hace años, la desarrolladora de videojuegos **Spicy Games** desarrolló su famoso RPG llamado **EPERS Tactics**, reconocido por su gran sistema de combate que revivió al género de combate por turnos dentro del mercado. Tal fue el éxito de aquel gran título, que grandes mentes del ámbito como Hideo Kojima, Markus Persson y hasta el excéntrico, pero reservado Yoko Taro llenaron de elogios a la entrega.
+Hace años, la desarrolladora de videojuegos **Spicy Games** desarrolló su famoso RPG llamado **EPERS Tactics**, reconocido por su gran sistema de combate que revivió al género de combate por turnos dentro del mercado. 
+Tal fue el éxito de aquel gran título, que grandes mentes del ámbito como Hideo Kojima, Markus Persson y hasta el excéntrico, pero reservado Yoko Taro llenaron de elogios a la entrega.
 
 Sin embargo, nuevas tecnologías surgen, y así también nuevos juegos. Tras nuestro periodo de adaptación en la empresa, se asigna a nuestro equipo desarrollar al sucesor del juego insignia de la compañía, destinado a destronar a la entrega anterior como el juego más vendido de la compañía: **EPERS Online**.
 
